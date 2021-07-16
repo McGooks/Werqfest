@@ -1,0 +1,40 @@
+
+.mid-button-nav {
+    margin-top: -150px;
+
+}
+
+.content .head-sec-title h1 {
+    margin-top: 40px;
+}
+
+.headline-image{
+
+    background: -webkit-linear-gradient(#ff0000, #fff025, #25ffbf, #00d0ff);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #999;
+}
+
+.performer-image{
+    background-image: url("../images/hbg.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #999;
+}
+
+.card-header.headline-performer-name {
+   
+box-shadow: 0 !important ;
+       
+}
+
+.card #card-text-height { 
+    min-height: 300px; 
+
+}
+   

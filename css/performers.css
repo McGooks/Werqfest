@@ -1,0 +1,22 @@
+.mid-button-nav {
+    margin-top: -150px;
+
+}
+
+.content .head-sec-title h1 {
+    margin-top: 40px;
+}
+
+.performers{
+    background: -webkit-linear-gradient(#ff0000, #fff025, #25ffbf, #00d0ff);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #999;
+}
+
+.performers .mid-performers h4{
+    font-size: 2rem;
+}
+
