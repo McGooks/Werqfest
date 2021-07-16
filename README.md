@@ -11,7 +11,7 @@ Project was to create a CMS for a fictional 3 days festival, that allows users, 
 ![alt text](https://user-images.githubusercontent.com/26790282/125948472-c18d01a5-0d4c-43ee-b2c0-d15706b48bab.png)
 <p align="center">(Admin) Edit User Screen</p>
 
-## Live Version
+# Live Version
 
 You can view a hosted version of this website here: http://gmcgookin01.lampt.eeecs.qub.ac.uk/Werqfest/index.php
 
