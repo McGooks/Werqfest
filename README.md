@@ -51,6 +51,6 @@ Password:
 
 # Sources for some key elements:
 
-Artist Profile > HTML Editor : https://ckeditor.com/ckeditor-4/
-Schedule > schedule: https://codepen.io/oltika/pen/GNvdgV 
-Home > Countdown Timer : http://hilios.github.io/jQuery.countdown/examples.html 
+<p>Artist Profile > HTML Editor : https://ckeditor.com/ckeditor-4/</p>
+<p>Schedule > schedule: https://codepen.io/oltika/pen/GNvdgV </p>
+<p>Home > Countdown Timer : http://hilios.github.io/jQuery.countdown/examples.html </p>
